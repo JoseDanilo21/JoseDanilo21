@@ -1,16 +1,15 @@
-### Hi there 👋
+# José_Danilo
 
-<!--
-**JoseDanilo21/JoseDanilo21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### olá! eu sou José_Danilo👋
 
-Here are some ideas to get you started:
+[![TikTok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://vm.tiktok.com/ZM6LmbLCh/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![JoseDanilo21 GitHub stats](https://github-readme-stats.vercel.app/api?username=JoseDanilo21&show_icons=true&theme=radical)
+
+## Tecnologia que eu uso no meu dia
+
+<div style ="display: inline_block">
+<br/>
+<img aling="center" alt="C"
+src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
+</div>
